@@ -1,0 +1,34 @@
+_repo: Since-C-zanne_13395
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Clive
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '5034'
+    url: http://www.gutenberg.org/2009/agents/5034
+    wikipedia: http://en.wikipedia.org/wiki/Clive_Bell
+description: ''
+gutenberg_issued: '2004-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+- !lcsh 'Post-impressionism (Art)'
+tableOfContents: 'Since Cézanne -- The artistic problem -- The Douanier Rousseau --
+  Cézanne -- Renoir -- Tradition and movements -- Matisse and Picasso -- The place
+  of art in art criticism -- Bonnard -- Duncan Grant -- Negro sculpture -- Order and
+  authority (1 and 2) -- Marquet -- Standards -- Criticism: First thoughts. Second
+  thoughts. Last thoughts -- Othon Friesz -- Wilcoxism -- Art and politics -- The
+  authority of M. Derain -- "Plus de jazz."'
+title: Since Cézanne
+url: http://www.gutenberg.org/ebooks/13395
